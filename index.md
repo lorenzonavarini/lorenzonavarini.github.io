@@ -1,15 +1,19 @@
-## Welcome to GitHub Pages
+# Lorenzo Navarini
 
-You can use the [editor on GitHub](https://github.com/lorenzonavarini/lorenzonavarini.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Lorenzo Navarini is a PhD student in Economics at [KU Leuven](https://www.kuleuven.be/kuleuven/). 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+He earned his Bachelor of Art (Political Science and International Relations) and Master of Science (Economics) degrees from the [University of Trieste](https://www.units.it/) and the [University of Vienna](https://www.univie.ac.at/) in 2017 and 2019. He has worked for [UNIDO - United Nations Industrial Development Organization](https://www.unido.org/), the [European Centre for Social Welfare Policy and Research](https://www.euro.centre.org/) (UN-affiliated institution), the [European Parliament (EGOV) ](https://www.europarl.europa.eu/thinktank/en/search.html?contributor=egov) and the [Fondazione Rodolfo De Benedetti](http://www.frdb.org/). He is member of [Tortuga](https://www.tortuga-econ.it/) and an alumnus of [Scuola di Politiche](https://www.scuoladipolitiche.eu/).
 
-### Markdown
+His main research interests are: Education and Labour economics, Policy Evaluation, Quantitative Methods, Development Economics, Macro-labour.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Brief CV
 
-```markdown
-Syntax highlighted code block
+* PhD in Economics at KU Leuven / october 2020 - 
+* Research Assistant at Fondazione Rodolfo Debenedetti / march 2020 - september 2020
+* Schuman Trainee at the European Parliament (DG IPOL - EGOV Economic Governance Support Unit) / october 2019 - march 2020
+* Research Assistant at the European Centre for Social Welfare Policy and Research / august - november 2019
+* Research Assistant at UNIDO - United Nations Industrial Development Organization for the Industrial Development Report 2020 / july - october 2018
+* MSc of Econonomics at the University of Vienna, Master's thesis: Human Capital and Job Polarization (supervisor: prof. Gerhard Sorger)
 
 # Header 1
 ## Header 2
