@@ -1,5 +1,7 @@
 # Lorenzo Navarini
 
+![image](https://lh6.googleusercontent.com/10QeliJYKj49d1-pyzfRLFOy1-VDlHsFKCX0V6h-mvtJ2DlFNoskqBYEbl1LALPajOFUTiaU1JToJvB-PRGduHQD2bomDOMLv1flSQdCgnBMGFXM-g=w1280)
+
 Lorenzo Navarini is a PhD student in Economics at [KU Leuven](https://www.kuleuven.be/kuleuven/). 
 
 He earned his Bachelor of Art (Political Science and International Relations) and Master of Science (Economics) degrees from the [University of Trieste](https://www.units.it/) and the [University of Vienna](https://www.univie.ac.at/) in 2017 and 2019. He has worked for [UNIDO - United Nations Industrial Development Organization](https://www.unido.org/), the [European Centre for Social Welfare Policy and Research](https://www.euro.centre.org/) (UN-affiliated institution), the [European Parliament (EGOV) ](https://www.europarl.europa.eu/thinktank/en/search.html?contributor=egov) and the [Fondazione Rodolfo De Benedetti](http://www.frdb.org/). He is member of [Tortuga](https://www.tortuga-econ.it/) and an alumnus of [Scuola di Politiche](https://www.scuoladipolitiche.eu/).
