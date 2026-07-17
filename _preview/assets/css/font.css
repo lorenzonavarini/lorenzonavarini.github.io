@@ -305,3 +305,44 @@ textarea {
     margin: 0;
   }
 }
+.affiliation-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  white-space: nowrap;
+}
+
+.affiliation-link img {
+  width: 18px;
+  height: 18px;
+  border-radius: 3px;
+  object-fit: cover;
+}
+
+.x-thread-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 3px;
+}
+
+.x-thread-link .fa-x-twitter {
+  font-size: 0.9em;
+}
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+@media (max-width: 420px) {
+  .affiliation-link {
+    white-space: normal;
+  }
+}
