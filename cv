@@ -1,3 +1,10 @@
-layout: page
-title: "CV"
-permalink: /CV
+---
+layout: default
+title: CV
+permalink: /cv/
+---
+<div class="container page cv-page">
+  <h1>CV</h1>
+  <p><span class="resource-links">(<a href="/JM/CV.pdf">Open or download the PDF</a>)</span></p>
+  <iframe class="pdf" src="/JM/CV.pdf" title="Lorenzo Navarini CV"></iframe>
+</div>

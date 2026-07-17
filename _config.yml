@@ -1,0 +1,8 @@
+title: Lorenzo Navarini
+description: Assistant Professor of Economics at the University of Vienna. Research in labor economics and the economics of education.
+url: "https://www.lorenzonavarini.com"
+baseurl: ""
+permalink: pretty
+timezone: Europe/Vienna
+plugins: [jekyll-sitemap]
+exclude: [Gemfile.lock, README.md, vendor]

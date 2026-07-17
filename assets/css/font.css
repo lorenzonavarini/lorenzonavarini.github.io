@@ -1,0 +1,118 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;600;700&display=swap");
+
+html,
+body,
+body *,
+button,
+input,
+select,
+textarea {
+  font-family: "Lato", Arial, Helvetica, sans-serif !important;
+}
+.contact-page address {
+  font-style: normal;
+  line-height: 1.7;
+}
+
+.paper-links-inline {
+  font-size: 13px;
+  font-weight: 400;
+}
+
+.social-icon.bluesky {
+  background: #1185fe;
+}
+
+/* Consistent typography for all research entries. */
+.research-page .coauthors,
+.research-page .meta,
+.research-page .funding,
+.research-page .project > p,
+.reports > li > .item-meta {
+  color: var(--muted);
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 1.55;
+  margin: 2px 0;
+}
+
+.reports > li > .item-meta {
+  display: block;
+}
+
+.reports > li > strong {
+  color: #222;
+  font-size: 14.5px;
+  line-height: 1.4;
+}
+
+.reports .paper-links-inline {
+  display: inline;
+  color: inherit;
+  margin: 0;
+}
+.resource-links {
+  font-size: 13px;
+  font-weight: 400;
+}
+
+.brand,
+.brand-logos {
+  display: flex;
+  align-items: center;
+}
+
+.brand {
+  gap: 9px;
+  flex-shrink: 0;
+}
+
+.brand-logos {
+  gap: 5px;
+}
+
+.brand-logos a {
+  display: inline-flex;
+}
+
+.brand-logos img {
+  width: 27px;
+  height: 27px;
+  border-radius: 4px;
+  object-fit: cover;
+}
+
+.brand-name {
+  color: #222;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 1.2;
+  text-decoration: none;
+}
+/* Match the desktop portrait height to the adjacent introduction text. */
+.intro {
+  align-items: stretch;
+}
+
+.portrait-frame {
+  position: relative;
+  width: 190px;
+  min-height: 0;
+  overflow: hidden;
+}
+
+.portrait-frame .portrait {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center top;
+}
+
+@media (max-width: 650px) {
+  .portrait-frame {
+    width: 170px;
+    aspect-ratio: 1280 / 1574;
+  }
+}
