@@ -279,3 +279,29 @@ textarea {
   width: 0;
   height: 0;
 }
+/* Tight mobile header-to-portrait spacing. */
+@media (max-width: 650px) {
+  header {
+    gap: 5px;
+    padding-top: 10px;
+    padding-bottom: 6px;
+  }
+
+  nav a {
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+
+  .home {
+    padding-top: 14px;
+  }
+
+  .intro {
+    gap: 14px;
+  }
+
+  .portrait-frame {
+    width: min(190px, 60vw);
+    margin: 0;
+  }
+}
