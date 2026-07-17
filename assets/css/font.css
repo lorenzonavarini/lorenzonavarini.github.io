@@ -353,3 +353,18 @@ textarea {
   text-justify: inter-word;
   hyphens: auto;
 }
+/* Correct mobile header stacking. */
+@media (max-width: 650px) {
+  header {
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+
+  .brand {
+    justify-content: flex-start;
+  }
+
+  .brand-name {
+    white-space: nowrap;
+  }
+}
