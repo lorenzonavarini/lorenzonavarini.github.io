@@ -368,3 +368,20 @@ textarea {
     white-space: nowrap;
   }
 }
+/* Balance mobile introduction typography with research entries. */
+@media (max-width: 650px) {
+  .intro h1 {
+    font-size: 23px !important;
+    margin-bottom: 10px;
+  }
+
+  .intro p {
+    font-size: 14px;
+    line-height: 1.55;
+    margin-bottom: 10px;
+  }
+
+  .intro .fields {
+    font-size: 13px;
+  }
+}
