@@ -346,3 +346,10 @@ textarea {
     white-space: normal;
   }
 }
+/* Justified abstract text. */
+.research-page details p,
+.home-research details p {
+  text-align: justify;
+  text-justify: inter-word;
+  hyphens: auto;
+}
