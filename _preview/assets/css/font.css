@@ -385,3 +385,13 @@ textarea {
     font-size: 13px;
   }
 }
+/* Affiliation links match surrounding prose. */
+.affiliation-link,
+.affiliation-link:visited,
+.affiliation-link:hover,
+.affiliation-link:active {
+  color: inherit;
+  font: inherit;
+  font-weight: inherit;
+  text-decoration: none;
+}
