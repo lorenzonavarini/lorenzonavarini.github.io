@@ -116,3 +116,39 @@ textarea {
     aspect-ratio: 1280 / 1574;
   }
 }
+.social-icon.repec {
+  background: #2f4f6f;
+}
+
+/* Tyler Ransom-style icon and label links. */
+.profiles a {
+  display: inline-flex;
+  align-items: center;
+  gap: 3px;
+}
+
+.profiles i {
+  width: 1.1em;
+  color: currentColor;
+  font-size: 1.05em;
+  text-align: center;
+}
+/* Preserve the icon libraries against the global Lato font rule. */
+.fa,
+.fas,
+.far {
+  font-family: "Font Awesome 6 Free" !important;
+}
+
+.fab {
+  font-family: "Font Awesome 6 Brands" !important;
+}
+
+.ai {
+  font-family: "Academicons" !important;
+}
+.profiles .profile-icon {
+  width: 1.1em;
+  height: 1.1em;
+  object-fit: contain;
+}
